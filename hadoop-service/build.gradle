@@ -1,0 +1,5 @@
+group 'com.softserveinc.xerace'
+version '1.0-SNAPSHOT'
+
+dependencies {
+}
